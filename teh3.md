@@ -37,7 +37,13 @@ Tämä komento antaa tiedot milloin ja mitä muutoksia annettuun tiedostoon on t
 
 ## c)
 
+Annoin komennon tehtyäni muutoksia tiedostoon tes2.txt ja annoin komennon
 
+	$ git reset --hard
+
+Tämä palautti tiedoston tilaan ennen tekemiäni muutoksia
+
+![Image](https://github.com/JoonasDemo/Teh3/blob/main/teht%C3%A4v%C3%A4%203c.png)
 
 ## d)
 
