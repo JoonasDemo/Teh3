@@ -47,5 +47,7 @@ Tämä palautti tiedoston tilaan ennen tekemiäni muutoksia
 
 ## d)
 
+Loin saltin alle hakemiston h3 ja siihen kansioon loin tiedoston h3.sls joka sisälsi testit apache2:n asentamisesta (kuvassa alla)
 
+![Image]()
 
