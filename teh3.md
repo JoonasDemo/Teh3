@@ -12,4 +12,11 @@ Tämä tehtävä on dokumentoitu tähän markdown tiedostoon
 ## b)
 
 
+## c)
+
+
+
+## d)
+
+
 
