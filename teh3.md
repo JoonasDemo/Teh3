@@ -16,7 +16,7 @@ Tässä tehtävässä loin 4 eri tiedostoa: tes1.txt, tes2.txt, test1.txt ja tes
 	$ git rm tes1.txt
 	$ git rm test2.txt
 
-![Image](tehtävä 3b.png)
+![Image](https://github.com/JoonasDemo/Teh3/blob/main/teht%C3%A4v%C3%A4%203b.png)
 
 ## c)
 
