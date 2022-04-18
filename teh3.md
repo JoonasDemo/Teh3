@@ -2,7 +2,8 @@
 
 ## z)
 
-_tässä artikkelissa käsitellään erillaisia *komentoja* joita voi käyttää MarkDown dokumenteissa niiden asettelemiseen_
+_tässä artikkelissa käsitellään erillaisia **komentoja** joita voi käyttää MarkDown dokumenteissa niiden asettelemiseen_
+mm. listoja, otsikoita, kuvia ja linkkejä
 
 ## a)
 
