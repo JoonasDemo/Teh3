@@ -22,19 +22,18 @@ Tässä tehtävässä loin 4 eri tiedostoa: tes1.txt, tes2.txt, test1.txt ja tes
 
 Tämä komento avaa nähtäväksi login kaikista kirjatuista tapahtumista git repossa.
 
-![Image]()
+![Image](https://github.com/JoonasDemo/Teh3/blob/main/teht%C3%A4v%C3%A4%203bb.png)
 
 	$ git diff
 
 Tämä komento listaa mitä muutoksia on tehty viime tallennuksesta
 
-![Image]()
+![Image](https://github.com/JoonasDemo/Teh3/blob/main/teht%C3%A4v%C3%A4%203bbb.png)
 
 	$ git blame
 
 Tämä komento antaa tiedot milloin ja mitä muutoksia annettuun tiedostoon on tehty
 
-![Image]()
 
 ## c)
 
